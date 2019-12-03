@@ -1,0 +1,21 @@
+body {
+    background-color: floralwhite;
+}
+
+h1 {
+    color: crimson;
+    font-size: 35px;
+}
+
+h2 {
+    color: mediumslateblue;
+    font-size: 25px;
+}
+
+.big {
+    font-size: 60px;
+}
+
+.upperscase {
+    text-transform: capitalize;
+}
